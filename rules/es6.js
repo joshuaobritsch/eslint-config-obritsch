@@ -89,7 +89,7 @@ module.exports = {
     }],
 
     // suggest using arrow functions as callbacks
-    'prefer-arrow-callback': ['warm', {
+    'prefer-arrow-callback': ['warn', {
       allowNamedFunctions: false,
       allowUnboundThis: true
     }],
