@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-obritsch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration based on my preferences.",
   "main": "index.js",
   "author": "Joshua Paul Obritsch",
